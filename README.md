@@ -7,3 +7,7 @@ This website is for all tech enthusiasts, allowing them to create their very own
 ## Walkthrough video
 
 https://drive.google.com/file/d/1-QqhHmnQYjgs7I1oOnAYudfdTPMr1Rov/view
+
+## Deployed link
+
+https://agile-wildwood-53268-9124d51998e1.herokuapp.com
